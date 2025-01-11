@@ -1,0 +1,12 @@
+#pokedexWrapper {
+    display: flex;
+    flex-direction: column;
+}
+#pokedexWrapper span{
+    margin: 0 auto;
+    letter-spacing: 3px;
+    font-size: 28px;
+}
+#test {
+    color: white
+}

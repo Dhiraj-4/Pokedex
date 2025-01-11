@@ -1,0 +1,10 @@
+#outer-pokedex-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+#outer-pokedex-wrapper > span{
+    margin: 0 auto;
+    letter-spacing: 3px;
+    font-size: 28px;
+    text-decoration: double underline;
+}
